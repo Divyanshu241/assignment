@@ -26,8 +26,7 @@ while True:
             X1[coy]='X'
     except:
         break
-    print(l)
-    print(l[2][0])
+    
     for p in l[::-1]:
         for p1 in p:
             print(p1+' ',end='')
