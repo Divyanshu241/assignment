@@ -80,3 +80,6 @@ while True:
         elif o==3:
             print('**O** ***WON***')
             quit()
+    if c==9:
+        print("It's a Draw.")
+        quit()
